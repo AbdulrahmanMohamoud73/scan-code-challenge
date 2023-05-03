@@ -4,4 +4,4 @@
 
 This is a quick challenge I did as practice from  [Frontend Mentor](https://www.frontendmentor.io). The aim is to reacreate the QR code webpage in the image using HTML and CSS.
 
-DEPLOYMENT LINK: https://abdulrahmanmohamoud73.github.io/scan-code-challenge/
+DEPLOYMENT LINK: [QR code component](https://abdulrahmanmohamoud73.github.io/scan-code-challenge/)
